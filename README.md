@@ -1,2 +1,0 @@
-# compuideal
-Servicios Informáticos 
